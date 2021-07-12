@@ -40,8 +40,8 @@ none
 
 ## License
 - ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
-- [title](https://opensource.org/licenses/MIT)
-- [title](https://opensource.org/licenses/MIT)
+- [The MIT License](https://opensource.org/licenses/MIT)
+
 
 ## Author
 - Wael Ahmed
